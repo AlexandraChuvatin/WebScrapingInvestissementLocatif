@@ -24,6 +24,9 @@ Vous devrez également installer les paquets Python suivants :
 Afin d'installer ces librairies, vous pouvez utiliser le fichier 'requirements.txt':
 pip install -r requirements.txt
 
+Finalement, afin d'utiliser la librairie selenium, il faudra télécharger un chromdriver. Rendez-vous sur le site suivant:
+https://chromedriver.chromium.org/downloads 
+
 ### Installation
 
 git clone https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif.git
