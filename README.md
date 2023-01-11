@@ -1,4 +1,4 @@
-# WebScrapingInvestissementLocatif
+# Web Scraping - Investissement Locatif
 Projet de Web Scraping s'intéressant à la rentabilité de l'achat d'un bien locatif en France.
 L'objectif est de récupérer dans un premier temps les villes les plus touristiques. 
 Par la suite, nous récupérons le prix moyen par mois des locations dans chacune des villes via Airbnb.
