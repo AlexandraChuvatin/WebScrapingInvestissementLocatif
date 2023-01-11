@@ -67,3 +67,5 @@ Vous trouverez dans le fichier [Rapport - LocInvest.pdf](https://https://github.
 ## Conclusion
 
 Economisez, investissez, louez !
+
+![image](https://user-images.githubusercontent.com/60775531/211861936-b7770467-b918-4b78-948e-55fc6489935c.png)
