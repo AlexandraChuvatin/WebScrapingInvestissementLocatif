@@ -34,6 +34,7 @@ git clone https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif.
 ## Utilisation
 
 Code: [WebScrap_LocInvest.ipynb](https://https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif/edit/main/WebScrap_LocInvest.ipynb) 
+
 Le code est structuré de la manière suivante:
 
 ### 1. Récupération des villes les plus touristiques:
@@ -62,7 +63,7 @@ Finalement, nous utilisons selenium pour scraper le site https://www.efficity.co
 
 ## Documentation
 
-Vous trouverez dans le fichier [Rapport - LocInvest.pdf](https://https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif/edit/main/Rapport - LocInvest.pdf) un rapport plus détaillé.
+Vous trouverez dans le fichier [Rapport - LocInvest.pdf](https://https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif/edit/main/RapportLocInvest.pdf) un rapport plus détaillé.
 
 ## Conclusion
 
