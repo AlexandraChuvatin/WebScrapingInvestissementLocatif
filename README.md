@@ -63,7 +63,7 @@ Finalement, nous utilisons selenium pour scraper le site https://www.efficity.co
 
 ## Documentation
 
-Vous trouverez dans le fichier [Rapport - LocInvest.pdf](https://https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif/edit/main/RapportLocInvest.pdf) un rapport plus détaillé.
+Vous trouverez dans le fichier [RapportLocInvest.pdf](https://https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif/edit/main/RapportLocInvest.pdf) un rapport plus détaillé.
 
 ## Conclusion
 
