@@ -21,7 +21,7 @@ Vous devrez également installer les paquets Python suivants :
 - time
 - random
 
-Afin d'installer ces librairies, vous pouvez utiliser le fichier [a link](https://https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif/edit/main/requirements.txt) :
+Afin d'installer ces librairies, vous pouvez utiliser le fichier [requirements.txt](https://https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif/edit/main/requirements.txt) :
 pip install -r requirements.txt
 
 Finalement, afin d'utiliser la librairie selenium, il faudra télécharger un chromdriver. Rendez-vous sur le site suivant:
@@ -33,6 +33,7 @@ git clone https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif.
 
 ## Utilisation
 
+Code: [WebScrap_LocInvest.ipynb](https://https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif/edit/main/WebScrap_LocInvest.ipynb) 
 Le code est structuré de la manière suivante:
 
 ### 1. Récupération des villes les plus touristiques:
@@ -61,7 +62,7 @@ Finalement, nous utilisons selenium pour scraper le site https://www.efficity.co
 
 ## Documentation
 
-Vous trouverez dans le fichier "Rapport - LocInvest.pdf" un rapport plus détaillé.
+Vous trouverez dans le fichier [Rapport - LocInvest.pdf](https://https://github.com/AlexandraChuvatin/WebScrapingInvestissementLocatif/edit/main/Rapport - LocInvest.pdf) un rapport plus détaillé.
 
 ## Conclusion
 
