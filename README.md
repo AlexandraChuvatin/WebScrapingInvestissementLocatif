@@ -59,6 +59,9 @@ Finalement, nous utilisons selenium pour scraper le site https://www.efficity.co
 
 ![image](https://user-images.githubusercontent.com/60775531/211819705-6367612c-9ced-4b38-a929-28867e250ba5.png)
 
+## Documentation
+
+Vous trouverez dans le fichier "Rapport - LocInvest.pdf" un rapport plus détaillé.
 
 ## Conclusion
 
